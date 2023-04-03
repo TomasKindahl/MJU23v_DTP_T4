@@ -2,7 +2,7 @@
 
 namespace MJU23v_DTP_T4
 {
-    class IntMath
+    public class IntMath
     {
         /// <summary>
         /// Computes the n:th power of x
